@@ -1,0 +1,3 @@
+/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/.cxx/Debug/h4e3t5d2/arm64-v8a/CMakeFiles/core_network_api.dir
+/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/.cxx/Debug/h4e3t5d2/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/.cxx/Debug/h4e3t5d2/arm64-v8a/CMakeFiles/rebuild_cache.dir

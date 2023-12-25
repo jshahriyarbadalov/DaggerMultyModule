@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/badalovsh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/.cxx/Debug/h4e3t5d2/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/badalovsh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/.cxx/Debug/h4e3t5d2/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "core_network_api::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "core_network_api",
+      "output": "/Users/badalovsh/AndroidStudioProjects/TheNewsApp/core-network-api/build/intermediates/cxx/Debug/h4e3t5d2/obj/x86_64/libcore_network_api.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/badalovsh/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/badalovsh/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

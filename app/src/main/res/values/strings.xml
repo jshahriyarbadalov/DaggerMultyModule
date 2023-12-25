@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheNewsApp</string>
+    <string name="welcome_to_news_app">WELCOME TO NEWS APP!</string>
+    <string name="enter_to_news">Enter to News</string>
+</resources>
